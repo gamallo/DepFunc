@@ -1,0 +1,14 @@
+../simil/citius-en/nvn
+Official score: 39,089 (Pearson: 37,630, Spearman: 40,665)
+../simil/citius-en/n-vn_dep
+Official score: 28,586 (Pearson: 21,133, Spearman: 44,158)
+../simil/citius-en/nv-n_dep
+Official score: 18,601 (Pearson: 17,911, Spearman: 19,347)
+../simil/citius-en/n-vn_head
+Official score: 36,391 (Pearson: 38,413, Spearman: 34,571)
+../simil/citius-en/nv-n_head
+Official score: 34,875 (Pearson: 36,953, Spearman: 33,017)
+../simil/citius-en/n-vn_merged
+Official score: 38,232 (Pearson: 34,129, Spearman: 43,457)
+../simil/citius-en/nv-n_merged
+Official score: 34,953 (Pearson: 37,118, Spearman: 33,027)
