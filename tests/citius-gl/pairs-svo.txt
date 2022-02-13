@@ -1,192 +1,192 @@
-director@comprar@acción director@adquirir@acción
-empregado@comprar@propiedade empregado@adquirir@propiedade
-partidario@comprar@billete partidario@adquirir@billete
-persoa@comprar@produto persoa@adquirir@produto
-sistema@cumprir@criterio sistema@satisfacer@criterio
-persoa@comprar@casa persoa@adquirir@casa
-servizo@cumprir@necesidade servizo@satisfacer@necesidade
-estudante@cumprir@requisito estudante@satisfacer@requisito
-artista@escribir@canción artista@compor@canción
-home@fornecer@diñeiro home@proporcionar@diñeiro
-empresario@fornecer@formación empresario@proporcionar@formación
-goberno@fornecer@diñeiro goberno@proporcionar@diñeiro
-persoa@xestionar@empresa persoa@dirixir@empresa
-praia@cumprir@norma praia@satisfacer@norma
-sistema@cumprir@requisito sistema@satisfacer@requisito
-estudo@fornecer@prova estudo@proporcionar@prova
-familia@xestiona@hotel familia@dirixir@hotel
-informe@chamar@atención informe@atrair@atención
-sistema@fornecer@instalación sistema@proporcionar@instalación
-empresa@fornecer@servizo empresa@proporcionar@servizo
-proposta@chamar@crítica proposta@atrair@crítica
-estudo@fornecer@información estudo@proporcionar@información
-familia@fornecer@casa familia@proporcionar@casa
-representante@coñecer@funcionario representante@visitar@funcionario
-empresa@comprar@político empresa@subornar@político
-persoa@provar@programa persoa@experimentar@programa
-neno@mostrar@interese neno@expresar@interese
-escola@fornecer@educación escola@proporcionar@educación
-persoa@comprar@seguranza persoa@adquirir@seguranza
-persoa@provar@porta persoa@experimentar@porta
-usuario@executar@aplicación usuario@procesar@aplicación
-tribunal@xulgar@caso tribunal@sentenciar@caso
-mapa@mostrar@área mapa@reproducir@área
-nai@fornecer@leite nai@proporcionar@leite
-doente@debuxar@figura doente@esbozar@figura
-sistema@executar@aplicación sistema@procesar@aplicación
-político@dicir@decisión político@declarar@decisión
-tabela@chamar@ollo tabela@atrair@ollo
-home@dicir@frase home@declarar@frase
-erudito@escribir@libro erudito@compor@libro
-xustiza@xulgar@rei xustiza@sentenciar@rei
-máquina@executar@programa máquina@procesar@programa
-operario@provar@edificio operario@experimentar@edificio
-tribunal@xulgar@ofensa tribunal@sentenciar@ofensa
-tribunal@xulgar@crime tribunal@sentenciar@crime
-direczao@aceptar@responsabilidade direczao@asumir@responsabilidade
-especialista@escribir@artigo especialista@publicar@artigo
-estudante@escribir@nome estudante@compor@nome
-revista@aceptar@responsabilidade revista@asumir@responsabilidade
-neno@debuxar@deseño neno@esbozar@deseño
-tabela@mostrar@resultado tabela@expresar@resultado
-neno@escribir@palabra neno@compor@palabra
-membro@aceptar@acción membro@recibir@acción
-home@debuxar@muller home@esbozar@muller
-sociedade@aceptar@taxa sociedade@asumir@taxa
-utilizador@aceptar@responsabilidade utilizador@asumir@responsabilidade
-muller@pintar@cabelo muller@retratar@cabelo
-sondaxem@mostrar@apoio sondaxem@expresar@apoio
-rapaz@coñecer@moza rapaz@saber@moza
-home@tentar@experiencia home@experimentar@experiencia
-profesor@escribir@libro profesor@publicar@libro
-orador@dicir@palabra orador@declarar@palabra
-modelo@comprar@comportamento modelo@adquirir@comportamento
-político@comprar@elección político@adquirir@elección
-mapa@mostrar@localización mapa@expresar@localización
-home@dicir@suceso home@declarar@suceso
-persoa@dicir@suceso persoa@declarar@suceso
-figura@mostrar@aumento figura@expresar@aumento
-utilizador@escribir@palabra utilizador@compor@palabra
-profesor@escribir@palabra profesor@compor@palabra
-home@fornecer@diñeiro home@deixar@diñeiro
-enquisa@dicir@recuperación enquisa@declarar@recuperación
-empresa@comprar@político empresa@adquirir@político
-estudo@mostrar@correlación estudo@expresar@correlación
-escritor@escribir@libro escritor@publicar@libro
-utilizador@escribir@software utilizador@publicar@software
-produtor@dicir@benevolencia produtor@declarar@benevolencia
-home@debuxar@muller home@pintar@muller
-home@escribir@canción home@publicar@canción
-persoa@dicir@rezo persoa@declarar@rezo
-figura@mostrar@aumento figura@retratar@aumento
-político@comprar@elección político@subornar@elección
-paciente@aceptar@tratamento paciente@recibir@tratamento
-tribunal@xulgar@caso tribunal@considerar@caso
-persoa@escribir@carta persoa@publicar@carta
-paciente@aceptar@tratamento paciente@asumir@tratamento
-accionista@aceptar@oferta accionista@recibir@oferta
-enquisa@alegar@recuperación enquisa@dicir@recuperación
-arma@comprar@oportunidade arma@adquirir@oportunidade
-xuiz@xulgar@acción xuiz@considerar@acción
-goberno@aceptar@recomendación goberno@asumir@recomendación
-xuiz@xulgar@acción xuiz@avaliar@acción
-persoa@comprar@seguranza persoa@subornar@seguranza
-padre@dicir@misa padre@declarar@misa
-cadro@mostrar@resultado cadro@retratar@resultado
-home@dicir@sentenza home@alegar@sentenza
-sala@mostrar@filme sala@retratar@filme
-advogado@aceptar@condenación advogado@asumir@condenación
-home@xusificar@suceso home@alegar@suceso
-goberno@aceptar@recomendación goberno@recibir@recomendación
-xustiza@xulgar@rei xustiza@considerar@rei
-tribunal@xulgar@crime tribunal@considerar@crime
-persoa@xustificar@suceso persoa@alegar@suceso
-persoa@provar@programa persoa@tentar@programa
-home@desenfundar@espada home@tirar@espada
-padre@dicir@rezo padre@declarar@rezo
-pai@debuxar@liña pai@retratar@liña
-accionista@aceptar@oferta accionista@asumir@oferta
-utilizador@escribir@palabra utilizador@publicar@palabra
-neno@escribir@palabra neno@publicar@palabra
-político@xustificar@decisión político@alegar@decisión
-mapa@mostrar@localización mapa@expresar@localización
-neno@encontrar@casa neno@descubrir@casa
-mapa@mostrar@área mapa@expresar@área
-estudante@escribir@nome estudante@publicar@nome
-utilizador@aceptar@responsabilidade utilizador@recibir@responsabilidade
-tribunal@xulgar@ofensa tribunal@considerar@ofensa
-sociedade@aceptar@taxa sociedade@recibir@taxa
-sol@difundir@luz sol@divulgar@luz
-artigo@difundir@información artigo@expandir@información
-visión@cumprir@ollo visión@satisfacer@ollo
-revista@aceptar@responsabilidade revista@recibir@responsabilidade
-goberno@aceptar@proposta goberno@asumir@proposta
-produtor@dicir@benevolencia produtor@alegar@benevolencia
-erudito@escribir@libro erudito@soletrear@libro
-estudo@mostrar@correlación estudo@revelar@correlación
-xestor@aceptar@responsabilidade xestor@recibir@responsabilidade
-membro@aceptar@acción membro@asumir@acción
-goberno@aceptar@proposta goberno@recibir@proposta
-advogado@aceptar@condenación advogado@recibir@condenación
-nai@fornecer@leite nai@deixar@leite
-artista@mostrar@obra artista@expresar@obra
-neno@mostrar@sinal neno@expresar@sinal
-sondaxem@mostrar@apoio sondaxem@revelar@apoio
-neno@mostrar@sinal neno@revelar@sinal
-artista@mostrar@obra artista@revelar@obra
-orador@dicir@palabra orador@alegar@palabra
-estudo@fornecer@información estudo@deixar@información
-muller@coñecer@homen muller@saber@homen
-rio@encontra@mar rio@descubrir@mar
-perito@escribir@artigo perito@soletrear@artigo
-muller@experimentar@experiencia muller@tentar@experiencia
-presidente@difundir@empresa presidente@divulgar@empresa
-goberno@fornecer@diñeiro goberno@deixar@diñeiro
-representante@coñecer@funcionario representante@saber@funcionario
-escritor@escribir@libro escritor@soletrear@libro
-tabela@debuxar@ollo tabela@retratar@ollo
-persoa@escribir@carta persoa@soletrear@carta
-manifestante@encontrar@edificio manifestante@descubrir@edificio
-demandante@xerar@beneficio demandante@atrair@beneficio
-estudo@fornecer@prova estudo@deixar@prova
-familia@fornecer@casa familia@deixar@casa
-rio@encontra@mar rio@sdescubrir@mar
-paciente@debuxar@figura paciente@pintar@figura
-radio@difundir@noticia radio@divulgar@noticia
-padre@dicir@oración padre@alegar@oración
-profesor@escribir@libro profesor@soletrear@libro
-sala@exibir@filme sala@expresar@filme
-servizo@satisfacer@necesidade servizo@compracer@necesidade
-sistema@cumprir@criterio sistema@compracer@criterio
-proposta@apresentar@crítica proposta@describir@crítica
-pai@debuxar@liña pai@pintar@liña
-máquina@executar@programa máquina@realizar@programa
-relatório@chamar@atención relatório@denominar@atención
-arma@comprar@risco arma@subornar@risco
-neno@encontrar@casa neno@descubrir@casa
-praia@cumprir@norma praia@completar@norma
-persoa@provar@portar persoa@tentar@porta
-modelo@comprar@comportamento modelo@subornar@comportamento
-muller@pintar@cabelo muller@debuxar@cabelo
-sistema@fornecer@instalación sistema@deixar@instalación
-estudante@cumprir@requisito estudante@realizar@requisito
-sistema@cumprir@requisito sistema@realizar@requisito
-padre@dicir@misa padre@alegar@misa
-persoa@comprar@produto persoa@subornar@produto
-empresa@prestar@servizo empresa@deixar@servizo
-utilizador@escribir@software utilizador@soletrear@software
-persoa@comprar@casa persoa@subornar@casa
-traballador@deseñar@subsidio traballador@describir@subsidio
-persoa@xestionar@empresa persoa@presidir@empresa
-neno@deseñar@imaxe neno@debuxar@imaxe
-empregador@ofrecer@formación empregador@deixar@formación
-neno@mostrar@interese neno@retratar@interese
-escola@ofrecer@educación escola@deixar@educación
-utilizador@executar@aplicación utilizador@realizar@aplicación
-director@comprar@acción director@subornar@acción
-home@desenfundar@espada home@extraer@espada
-patrocinador@comprar@billete patrocinador@subornar@billete
-familia@dirixir@hotel familia@presidir@hotel
-empregado@comprar@propiedade empregado@subornar@propiedade
-información@difundir@xornalista información@divulgar@xornalista
-sistema@executar@aplicación sistema@exercer@aplicación
+director@comprar@acción director@adquirir@acción 7
+empregado@comprar@propiedade empregado@adquirir@propiedade 7
+partidario@comprar@billete partidario@adquirir@billete 6.9
+persoa@comprar@produto persoa@adquirir@produto 7
+sistema@cumprir@criterio sistema@satisfacer@criterio 6.8
+persoa@comprar@casa persoa@adquirir@casa 7
+servizo@cumprir@necesidade servizo@satisfacer@necesidade 6.5
+estudante@cumprir@requisito estudante@satisfacer@requisito 6
+artista@escribir@canción artista@compor@canción 6.9
+home@fornecer@diñeiro home@proporcionar@diñeiro 6.6
+empresario@fornecer@formación empresario@proporcionar@formación 6.6
+goberno@fornecer@diñeiro goberno@proporcionar@diñeiro 6.9
+persoa@xestionar@empresa persoa@dirixir@empresa 6.9
+praia@cumprir@norma praia@satisfacer@norma 3.5
+sistema@cumprir@requisito sistema@satisfacer@requisito 6.9
+estudo@fornecer@proba estudo@proporcionar@proba 6.8
+familia@controlar@hotel familia@dirixir@hotel 6.6
+informe@chamar@atención informe@atraer@atención 7
+sistema@fornecer@instalación sistema@proporcionar@instalación 6
+empresa@fornecer@servizo empresa@proporcionar@servizo 6.9
+proposta@chamar@crítica proposta@atraer@crítica 1.5
+estudo@fornecer@información estudo@proporcionar@información 6.9
+familia@fornecer@casa familia@proporcionar@casa 5.5
+representante@coñecer@funcionario representante@visitar@funcionario 2
+empresa@comprar@político empresa@corromper@político 6.5
+persoa@probar@programa persoa@experimentar@programa 6.5
+neno@mostrar@interese neno@expresar@interese 6.2
+escola@fornecer@educación escola@proporcionar@educación 6.1
+persoa@comprar@seguranza persoa@adquirir@seguranza 6
+persoa@probar@porta persoa@experimentar@porta 3.5
+usuario@executar@aplicación usuario@procesar@aplicación 5.4
+tribunal@xulgar@caso tribunal@sentenciar@caso 5.2
+mapa@mostrar@área mapa@reproducir@área 5.5
+nai@fornecer@leite nai@proporcionar@leite 5.5
+doente@debuxar@figura doente@esbozar@figura 5.5
+sistema@executar@aplicación sistema@procesar@aplicación 5
+político@dicir@decisión político@declarar@decisión 1.9
+táboa@chamar@ollo táboa@atraer@ollo 1.9
+home@dicir@frase home@declarar@frase 4.4
+erudito@escribir@libro erudito@compor@libro 3.1
+xustiza@xulgar@rei xustiza@sentenciar@rei 5.5
+máquina@executar@programa máquina@procesar@programa 6.1
+operario@probar@edificio operario@experimentar@edificio 1.9
+tribunal@xulgar@ofensa tribunal@sentenciar@ofensa 2.5
+tribunal@xulgar@crime tribunal@sentenciar@crime 2.8
+dirección@aceptar@responsabilidade dirección@asumir@responsabilidade 5.5
+especialista@escribir@artigo especialista@publicar@artigo 4.5
+estudante@escribir@nome estudante@compor@nome 3
+revista@aceptar@responsabilidade revista@asumir@responsabilidade 6.1
+neno@debuxar@deseño neno@esbozar@deseño 5
+táboa@mostrar@resultado táboa@expresar@resultado 5.1
+neno@escribir@palabra neno@compor@palabra 2.5
+membro@aceptar@acción membro@recibir@acción 4
+home@debuxar@muller home@esbozar@muller 4.9
+cidadán@aceptar@taxa cidadán@asumir@taxa 6.2
+traballador@aceptar@responsabilidade traballador@asumir@responsabilidade 6.5
+muller@pintar@cabelo muller@retratar@cabelo 2.9
+enquisa@mostrar@apoio enquisa@expresar@apoio 6.4
+rapaz@coñecer@moza rapaz@saber@moza 1
+home@tentar@experiencia home@experimentar@experiencia 3.3
+profesor@escribir@libro profesor@publicar@libro 4.3
+orador@dicir@palabra orador@declarar@palabra 3.5
+modelo@comprar@comportamento modelo@adquirir@comportamento 3.6
+político@comprar@elección político@adquirir@elección 3.5
+mapa@mostrar@localización mapa@expresar@localización 3.9
+home@dicir@suceso home@declarar@suceso 1.5
+persoa@dicir@suceso persoa@declarar@suceso 1.5
+figura@mostrar@aumento figura@expresar@aumento 5.9
+utilizador@escribir@palabra utilizador@compor@palabra 2.5
+profesor@escribir@palabra profesor@compor@palabra 2.5
+home@fornecer@diñeiro home@deixar@diñeiro 4.5
+enquisa@dicir@recuperación enquisa@declarar@recuperación 3.4
+empresa@comprar@político empresa@adquirir@político 4.3
+estudo@mostrar@correlación estudo@expresar@correlación 5.9
+escritor@escribir@libro escritor@publicar@libro 4.3
+utilizador@escribir@software utilizador@publicar@software 1.9
+produtor@dicir@benevolencia produtor@declarar@benevolencia 1.1
+home@debuxar@muller home@pintar@muller 6.1
+home@escribir@canción home@publicar@canción 3.5
+persoa@dicir@rezo persoa@declarar@rezo 1.4
+figura@mostrar@aumento figura@retratar@aumento 4.5
+político@comprar@elección político@subornar@elección 3.5
+paciente@aceptar@tratamento paciente@recibir@tratamento 5.5
+tribunal@xulgar@caso tribunal@considerar@caso 4.6
+persoa@escribir@carta persoa@publicar@carta 4.3
+paciente@aceptar@tratamento paciente@asumir@tratamento 5.5
+accionista@aceptar@oferta accionista@recibir@oferta 3.1
+enquisa@alegar@recuperación enquisa@dicir@recuperación 1.5
+arma@comprar@oportunidade arma@adquirir@oportunidade 2.5
+xuíz@xulgar@acción xuíz@considerar@acción 3.3
+goberno@aceptar@recomendación goberno@asumir@recomendación 4.5
+xuíz@xulgar@acción xuíz@avaliar@acción 5.2
+persoa@comprar@seguranza persoa@subornar@seguranza 2.5
+padre@dicir@misa padre@declarar@misa 3.1
+cadro@mostrar@resultado cadro@retratar@resultado 4
+home@dicir@sentenza home@alegar@sentenza 3.4
+sala@mostrar@filme sala@retratar@filme 2
+avogado@aceptar@condena avogado@asumir@condena 6.5
+home@xusificar@suceso home@alegar@suceso 2
+goberno@aceptar@recomendación goberno@recibir@recomendación 4
+xustiza@xulgar@rei xustiza@considerar@rei 2.5
+tribunal@xulgar@crime tribunal@considerar@crime 2.1
+persoa@xustificar@suceso persoa@alegar@suceso 2
+persoa@probar@programa persoa@tentar@programa 2
+home@desenfundar@espada home@tirar@espada 2.5
+padre@dicir@rezo padre@declarar@rezo 2.9
+pai@debuxar@liña pai@retratar@liña 2.9
+accionista@aceptar@oferta accionista@asumir@oferta 4
+utilizador@escribir@palabra utilizador@publicar@palabra 1.9
+neno@escribir@palabra neno@publicar@palabra 1.9
+político@xustificar@decisión político@alegar@decisión 2
+mapa@mostrar@localización mapa@expresar@localización 3
+neno@encontrar@casa neno@descubrir@casa 3.7
+mapa@mostrar@área mapa@expresar@área 3.9
+estudante@escribir@nome estudante@publicar@nome 2
+utilizador@aceptar@responsabilidade utilizador@recibir@responsabilidade 2.8
+tribunal@xulgar@ofensa tribunal@considerar@ofensa 3.6
+sociedade@aceptar@taxa sociedade@recibir@taxa 3.8
+sol@difundir@luz sol@divulgar@luz 2.1
+artigo@difundir@información artigo@divulgar@información 6.7
+visión@cumprir@ollo visión@satisfacer@ollo 1
+revista@aceptar@responsabilidade revista@recibir@responsabilidade 3.1
+goberno@aceptar@proposta goberno@asumir@proposta 6.1
+produtor@dicir@benevolencia produtor@alegar@benevolencia 1.6
+erudito@escribir@libro erudito@soletrear@libro 1.2
+estudo@mostrar@correlación estudo@revelar@correlación 6.5
+xestor@aceptar@responsabilidade xestor@recibir@responsabilidade 2
+membro@aceptar@acción membro@asumir@acción 3.5
+goberno@aceptar@proposta goberno@recibir@proposta 4
+avogado@aceptar@condena avogado@recibir@condena 2.5
+nai@fornecer@leite nai@deixar@leite 2
+artista@mostrar@obra artista@expresar@obra 2
+neno@mostrar@sinal neno@expresar@sinal 2
+enquisa@mostrar@apoio enquisa@revelar@apoio 6
+neno@mostrar@sinal neno@revelar@sinal 2.5
+artista@mostrar@obra artista@revelar@obra 5.5
+orador@dicir@palabra orador@alegar@palabra 2.1
+estudo@fornecer@información estudo@deixar@información 2.4
+muller@coñecer@home muller@saber@home 1
+río@encontra@mar río@descubrir@mar 2.5
+perito@escribir@artigo perito@soletrear@artigo 1.5
+muller@experimentar@experiencia muller@tentar@experiencia 3.5
+presidente@difundir@empresa presidente@divulgar@empresa 4.1
+banco@fornecer@diñeiro banco@deixar@diñeiro 5.5
+representante@coñecer@funcionario representante@saber@funcionario 1
+escritor@escribir@libro escritor@soletrear@libro 1.5
+táboa@debuxar@ollo táboa@retratar@ollo 1.9
+persoa@escribir@carta persoa@soletrear@carta 1.5
+manifestante@encontrar@edificio manifestante@descubrir@edificio 4.8
+demandante@xerar@beneficio demandante@atraer@beneficio 1.5
+estudo@fornecer@proba estudo@deixar@proba 2
+familia@fornecer@casa familia@deixar@casa 1.1
+río@encontra@mar río@sdescubrir@mar 1.1
+paciente@debuxar@figura paciente@pintar@figura 6.1
+radio@difundir@noticia radio@divulgar@noticia 7
+padre@dicir@oración padre@alegar@oración 1
+profesor@escribir@libro profesor@soletrear@libro 1.5
+sala@exibir@filme sala@expresar@filme 1.1
+servizo@satisfacer@necesidade servizo@compracer@necesidade 1.3
+sistema@cumprir@criterio sistema@compracer@criterio 3
+proposta@apresentar@crítica proposta@describir@crítica 2.8
+pai@debuxar@liña pai@pintar@liña 5.1
+máquina@executar@programa máquina@realizar@programa 2
+informe@chamar@atención informe@denominar@atención 1
+arma@comprar@risco arma@subornar@risco 1
+neno@encontrar@casa neno@descubrir@casa 3.5
+praia@cumprir@norma praia@completar@norma 1.5
+persoa@probar@portar persoa@tentar@porta 1.5
+modelo@comprar@comportamento modelo@subornar@comportamento 1
+muller@pintar@cabelo muller@debuxar@cabelo 2.1
+sistema@fornecer@instalación sistema@deixar@instalación 2
+estudante@cumprir@requisito estudante@realizar@requisito 1
+sistema@cumprir@requisito sistema@realizar@requisito 1.1
+padre@dicir@misa padre@alegar@misa 1
+persoa@comprar@produto persoa@subornar@produto 1.1
+empresa@prestar@servizo empresa@deixar@servizo 4
+utilizador@escribir@software utilizador@soletrear@software 1
+persoa@comprar@casa persoa@subornar@casa 1
+traballador@deseñar@subsidio traballador@describir@subsidio 2
+persoa@controlar@empresa persoa@presidir@empresa 6.5
+neno@deseñar@imaxe neno@debuxar@imaxe 2.5
+empregador@ofrecer@formación empregador@deixar@formación 1.3
+neno@mostrar@interese neno@retratar@interese 1.2
+escola@ofrecer@educación escola@deixar@educación 1.2
+utilizador@executar@aplicación utilizador@realizar@aplicación 1.5
+director@comprar@acción director@subornar@acción 1.1
+home@desenfundar@espada home@extraer@espada 5.3
+patrocinador@comprar@billete patrocinador@subornar@billete 1
+familia@dirixir@hotel familia@presidir@hotel 5.1
+empregado@comprar@propiedade empregado@subornar@propiedade 1.1
+información@difundir@xornalista información@divulgar@xornalista 1
+sistema@executar@aplicación sistema@exercer@aplicación 1.1
