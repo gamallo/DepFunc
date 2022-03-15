@@ -1,5 +1,5 @@
 # DepFunc
-This is a system to build contextualized word vectors by using compositional distributional semantics and syntactic dependencies. This version works with subject-verb-object trigrams (transitive constructions) for three languages: English, Portuguese, and Spanish. Three annotated datasets, one per language, are also provided in the `./test` directory.
+This is a system to build contextualized word vectors by using compositional distributional semantics and syntactic dependencies. This version works with subject-verb-object trigrams (transitive constructions) for three languages: English, Galician, Portuguese, and Spanish. Three annotated datasets, one per language, are also provided in the `./test` directory.
 
 ## REQUIREMENTS
 
@@ -13,9 +13,10 @@ sh install.sh
 
 ## HOW TO USE
 
-If you wish to run the system and evaluate the results on the three datasets for the three languages: 
+If you wish to run the system and evaluate the results on the three datasets for the four languages: 
 ```
 sh RUN.sh en
+sh RUN.sh gl
 sh RUN.sh pt
 sh RUN.sh es
 ```
