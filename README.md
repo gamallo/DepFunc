@@ -13,7 +13,7 @@ sh install.sh
 
 ## HOW TO USE
 
-If you wish to run the system and evaluate the results on the three datasets for the four languages: 
+If you wish to run the system and evaluate the results on the four datasets for the four languages: 
 ```
 sh RUN.sh en
 sh RUN.sh gl
